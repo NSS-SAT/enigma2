@@ -3936,8 +3936,8 @@ msgid "GUI Settings"
 msgstr "Impostazioni"
 
 #, fuzzy
-msgid "Impostazione Skin"
-msgstr "impostazione Skin"
+msgid "GUI Skin"
+msgstr "impostazione"
 
 msgid ""
 "GUI needs a restart to apply a new language\n"
