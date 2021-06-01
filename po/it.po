@@ -3935,9 +3935,9 @@ msgstr "Versione GStreamer: "
 msgid "GUI Settings"
 msgstr "Impostazioni"
 
-#, fuzzy
+
 msgid "GUI Skin"
-msgstr "Impostazioni"
+msgstr "Impostazioni Skin"
 
 msgid ""
 "GUI needs a restart to apply a new language\n"
