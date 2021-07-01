@@ -18,8 +18,8 @@ import os
 
 class hotkey:
 	functions = None
-	hotkeys = [(_("Red") + " " + _("long"), "red_long", "Infobar/mainMenu/1"),
-		(_("Green") + " " + _("long"), "green_long", "Infobar/showEventInfoPlugins/1"),
+	hotkeys = [(_("Red") + " " + _("long"), "red_long", "Infobar/mainMenu"),
+		(_("Green") + " " + _("long"), "green_long", "Infobar/showEventInfoPlugins"),
 		(_("Yellow") + " " + _("long"), "yellow_long", "Plugins/Extensions/GraphMultiEPG/1"),
 		(_("Blue") + " " + _("long"), "blue_long", "Plugins/Extensions/NssPanel/1"),
 		("F1/LAN", "f1", ""),
@@ -28,8 +28,8 @@ class hotkey:
 		("F2" + " " + _("long"), "f2_long", ""),
 		("F3", "f3", ""),
 		("F3" + " " + _("long"), "f3_long", ""),
-		(_("Red"), "red", "Infobar/mainMenu/1"),
-		(_("Green"), "green", "Infobar/showEventInfoPlugins/1"),
+		(_("Red"), "red", "Infobar/mainMenu"),
+		(_("Green"), "green", "Infobar/showEventInfoPlugins"),
 		(_("Yellow"), "yellow", ""),
 		(_("Blue"), "blue", "Plugins/Extensions/NssPanel/1"),
 		("Rec", "rec", ""),
